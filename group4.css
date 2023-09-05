@@ -4,6 +4,25 @@
 
 .intro-nikolaj {
     background-color: orange;
+    padding: 20px;
+    color:blue;
+}
+
+.intro-nikolaj p {
+
+    font-family: 'Arial';
+    font-size: 18px;
+
+}
+
+.lol {
+    display: flex;
+    justify-content: center;
+}
+
+.intro-nikolaj span {
+    font-family:'Comic Sans MS';
+    font-size: 32px;
 }
 
 .intro-nikolaj img {
