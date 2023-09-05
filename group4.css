@@ -30,6 +30,20 @@
     max-width: 500px;
 }
 
+.intro-jonathan {
+    background-color: #023020;
+    color: white;
+}
+
+.j-navn {
+    color: aqua;
+}
+
+.rendition {
+    font-family: "Comic Sans MS", sans-serif;
+    font-style: oblique;
+}
+
 .team {
     display: flex;
     justify-content: center;
