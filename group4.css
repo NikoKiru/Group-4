@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+
+.intro-nikolaj {
+    background-color: orange;
+}
+
+.intro-nikolaj img {
+    scale: 100%;
+    max-width: 500px;
+}
