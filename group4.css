@@ -10,3 +10,10 @@
     scale: 100%;
     max-width: 500px;
 }
+
+.team {
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    color: lightslategray;
+}
